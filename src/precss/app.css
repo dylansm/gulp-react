@@ -1,0 +1,10 @@
+@import "vars/root.css";
+
+body {
+  background: var(--mainColor);
+  /* background: #000; */
+
+  @nest & h1 {
+    font: var(--fontSize) georgia;
+  }
+}

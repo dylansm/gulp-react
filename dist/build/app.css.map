@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.css"],"names":[],"mappings":"AAAA,KACE,4BAAiC,CAElC,AACD,QACE,iBAAkB,CACnB","file":"app.css","sourcesContent":["body {\n  background: rgba(18, 52, 86, 0.6)\n  /* background: #000; */\n}\nbody h1 {\n  font: 2rem georgia\n}\n"],"sourceRoot":"/source/"}
